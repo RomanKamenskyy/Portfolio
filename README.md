@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, you can find links to my iOS projects hosted on G
 ## 🚀 Projects
 
 
-### 1. [GitHubFollowers](https://github.com/RomanKamenskyy/CohereApp)
+### 1. [CohereApp](https://github.com/RomanKamenskyy/CohereApp)
 **Description**: This is a SwiftUI-based chat application that uses Cohere’s API to send and receive messages. The app features a chat interface where users can input text, which is then sent to the API. The response from the API is displayed in the chat, and both user and AI messages are saved in a local database using SwiftData. This project is designed to showcase skills in Swift, SwiftUI, and interaction with a third-party API.
 
 **Key Technologies**: Swift, SwiftUI, Alamofire, SwiftData
