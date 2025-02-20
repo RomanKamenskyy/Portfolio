@@ -6,7 +6,16 @@ Welcome to my portfolio! Here, you can find links to my iOS projects hosted on G
 ## 🚀 Projects
 
 
-### 1. [CohereApp](https://github.com/RomanKamenskyy/CohereApp)
+### 1. [Puzzle Game](https://github.com/RomanKamenskyy/Puzzle)
+**Description**: It's a puzzle game with 3x3 tiles
+
+
+<img width="300" alt="screenshot_3" src="https://github.com/user-attachments/assets/ab533b6b-0eb3-4ac3-a1e6-c3dc054edc61" />
+<img width="300" alt="screenshot_4" src="https://github.com/user-attachments/assets/696aa784-a1c8-4d0e-b3f3-448d321a9ef8" />
+
+---
+
+### 2. [CohereApp](https://github.com/RomanKamenskyy/CohereApp)
 **Description**: This is a SwiftUI-based chat application that uses Cohere’s API to send and receive messages. The app features a chat interface where users can input text, which is then sent to the API. The response from the API is displayed in the chat, and both user and AI messages are saved in a local database using SwiftData. This project is designed to showcase skills in Swift, SwiftUI, and interaction with a third-party API.
 
 **Key Technologies**: Swift, SwiftUI, Alamofire, SwiftData
@@ -16,7 +25,7 @@ Welcome to my portfolio! Here, you can find links to my iOS projects hosted on G
 
 ---
 
-### 2. [GitHubFollowers](https://github.com/RomanKamenskyy/GitHubFollowers)
+### 3. [GitHubFollowers](https://github.com/RomanKamenskyy/GitHubFollowers)
 **Description**: This project obtains a list of followers using the GitHub API. and allows the user to set and save a favorite GitHub user. The user can search for a specific follower among these subscribers and can click on a follower from this list to get more information about that follower.
 
 **Key Technologies**: Swift, No Storyboard, 100% programmatic UI, UIKit, UserDefaults, NSCache, SafariServices.
@@ -26,7 +35,7 @@ Welcome to my portfolio! Here, you can find links to my iOS projects hosted on G
 
 ---
 
-### 3. [RecipeApp](https://github.com/RomanKamenskyy/RecipeApp)
+### 4. [RecipeApp](https://github.com/RomanKamenskyy/RecipeApp)
 **Description**: This project retrieves recipes using the spoonacular API. and allows the user to find the desired recipe with a list of ingredients, cooking process and a photo of the dish. The user can add the found recipe to CoreData favorites.
 
 **Key Technologies**: Swift, SwiftUI, CoreData.
@@ -38,7 +47,7 @@ src="https://github.com/user-attachments/assets/0205c456-a2fd-4d72-983d-ac236235
 
 ---
 
-### 4. [SwiftUI-Weather-Api](https://github.com/RomanKamenskyy/SwiftUI-Weather-Api)
+### 5. [SwiftUI-Weather-Api](https://github.com/RomanKamenskyy/SwiftUI-Weather-Api)
 **Description**: Simple application for weather forecasting, for testing data retrieval c api. With adaptation to the dark theme of the interface.  
 
 **Key Technologies**: Swift, UIKit
@@ -48,7 +57,7 @@ src="https://github.com/user-attachments/assets/0205c456-a2fd-4d72-983d-ac236235
 
 ---
 
-### 5. [CalculatorApp](https://github.com/RomanKamenskyy/CalculatorApp)
+### 6. [CalculatorApp](https://github.com/RomanKamenskyy/CalculatorApp)
 **Description**: This repository contains a simple yet functional calculator app for iOS, developed as a pet project. The app showcases core skills in Swift and SwiftUI.  
 
 **Key Technologies**: Swift, SwiftUI, XCTest
@@ -58,7 +67,7 @@ src="https://github.com/user-attachments/assets/0205c456-a2fd-4d72-983d-ac236235
 
 ---
 
-### 6. [TodoAppCoreData](https://github.com/RomanKamenskyy/TodoAppCoreData)
+### 7. [TodoAppCoreData](https://github.com/RomanKamenskyy/TodoAppCoreData)
 **Description**: A todolist application to store all your tasks using CoreData.
 
 **Key Technologies**: Swift, UIKit, Core Data.
@@ -68,14 +77,14 @@ src="https://github.com/user-attachments/assets/0205c456-a2fd-4d72-983d-ac236235
 
 ---
 
-### 7. [Clima](https://github.com/RomanKamenskyy/Clima)
+### 8. [Clima](https://github.com/RomanKamenskyy/Clima)
 **Description**: Ability to get weather forecast by location and city search.
 
 <img width="300" alt="Screenshot 2024-10-27 at 21 47 29" src="https://github.com/user-attachments/assets/31940a2c-9724-4ac7-b677-506e7441e7b5">
 
 ---
 
-### 8. [AppleFrameworkList](https://github.com/RomanKamenskyy/AppleFrameworkList)
+### 9. [AppleFrameworkList](https://github.com/RomanKamenskyy/AppleFrameworkList)
 **Description**: Ability to get weather forecast by location and city search.
 
 <img width="300" alt="Screenshot 2024-10-27 at 02 10 26" src="https://github.com/user-attachments/assets/90ec24c2-260f-4ef0-9254-53ef20d7113b">
@@ -83,7 +92,7 @@ src="https://github.com/user-attachments/assets/0205c456-a2fd-4d72-983d-ac236235
 
 ---
 
-### 9. [BMI-Calculator](https://github.com/RomanKamenskyy/BMI-Calculator)
+### 10. [BMI-Calculator](https://github.com/RomanKamenskyy/BMI-Calculator)
 **Description**: Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies.
 
 <img width="300" alt="Screenshot 2024-10-27 at 22 55 17" src="https://github.com/user-attachments/assets/1541bcac-ceae-4562-86c9-e6532a2812b4">
