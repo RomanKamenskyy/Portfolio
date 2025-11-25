@@ -104,7 +104,6 @@ src="https://github.com/user-attachments/assets/0205c456-a2fd-4d72-983d-ac236235
 ## 📫 Contact Me
 
 - **Email**: [kamensky.ra@gmail.com](mailto:kamensky.ra@gmail.com)  
-- **LinkedIn**: [Roman Kamenskyi](https://www.linkedin.com/in/roman-kamenskyi-409245162/)  
 
 
 ---
