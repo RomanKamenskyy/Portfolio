@@ -1,4 +1,4 @@
-# 📱 iOS Developer Portfolio
+# 📱 Portfolio
 
 Welcome to my portfolio! Here, you can find links to my iOS projects hosted on GitHub. Each project includes a brief description and highlights key technologies used.
 
